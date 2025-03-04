@@ -1,21 +1,41 @@
-<h1 align="center">Hi 👋, I'm Gaurav Butke</h1>
-<h3 align="center">A passionate Business Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uknowndon&label=Profile%20views&color=0e75b6&style=flat" alt="uknowndon" /> </p>
+Hi there, I'm Gaurav Butke 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uknowndon" alt="uknowndon" /></a> </p>
+🚀 Business Analyst | Problem Solver | Data Enthusiast
 
-- 🌱 I’m currently learning *Business Stakes*
+Welcome to my GitHub profile! I'm Gaurav, a passionate business analyst dedicated to transforming data into strategic insights and helping businesses make informed decisions.
 
-- 🤝 I’m looking for help with [Super Market Project (Dashboard)](https://public.tableau.com/views/Dashboard2_1_17409805932750/Dashboard13?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+📊 About Me
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/my-portfolio-g4](https://sites.google.com/view/my-portfolio-g4)
+🎯 Role: Business Analyst
 
-- ⛏️ Skills *Tableau and Power Bi || SQL || MS Excel*
+📍 Location: [India , Nagpur]
 
-- 📫 How to reach me *gauravbutke4@gmail.com*
+💬 Languages: [Marathi,Hindi,English]
 
-- ⚡ Fun fact *I Think 🤔*
+🧠 Skills: Data Analysis, SQL, Python, Excel, Power BI, Tableau, Process Improvement, Requirement Gathering, Stakeholder Management
+
+📚 Learning: Currently exploring advanced data visualization techniques and predictive analytics 
+
+👨‍💻  [https://sites.google.com/view/my-portfolio-g4](https://sites.google.com/view/my-portfolio-g4)
+
+📂 Projects: [Super Market (Dashboard)](https://public.tableau.com/views/Dashboard2_1_17409805932750/Dashboard13?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+📈 Sales Dashboard: An interactive Power BI dashboard showcasing sales trends and key performance indicators.
+
+🔍 Customer Churn Analysis: A Python-based analysis predicting customer churn using machine learning.
+
+🗃️ Process Optimization: Streamlined internal business processes through detailed workflow analysis and automation.
+
+🛠️ Tech Stack
+
+Data Tools: Excel, Power BI, Tableau
+
+
+
+- 👨‍💻  [https://sites.google.com/view/my-portfolio-g4](https://sites.google.com/view/my-portfolio-g4)
+
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
