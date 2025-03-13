@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Gaurav, a passionate business analyst dedicate
 
 💬 Languages: [Marathi,Hindi,English]
 
-🧠 Skills: Data Analysis, SQL, Python, Excel, Power BI, Tableau, Process Improvement, Requirement Gathering, Stakeholder Management
+🧠 Skills: Data Analysis, SQL, Excel, Power BI, Tableau, Process Improvement, Requirement Gathering, Stakeholder Management
 
 📚 Learning: Currently exploring advanced data visualization techniques and predictive analytics 
 
