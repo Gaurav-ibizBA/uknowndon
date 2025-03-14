@@ -35,7 +35,6 @@ Data Tools: Excel, Power BI, Tableau
 
 - 👨‍💻  [https://sites.google.com/view/my-portfolio-g4](https://sites.google.com/view/my-portfolio-g4)
 
--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
