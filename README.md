@@ -17,8 +17,6 @@ Welcome to my GitHub profile! I'm Gaurav, a passionate business analyst dedicate
 
 📚 Learning: Currently exploring advanced data visualization techniques and predictive analytics 
 
-👨‍💻  [https://sites.google.com/view/my-portfolio-g4](https://sites.google.com/view/my-portfolio-g4)
-
 📂 Projects: [Super Market (Dashboard)](https://public.tableau.com/views/Dashboard2_1_17409805932750/Dashboard13?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 📈 Sales Dashboard: An interactive Power BI dashboard showcasing sales trends and key performance indicators.
