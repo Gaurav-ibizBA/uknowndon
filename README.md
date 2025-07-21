@@ -29,6 +29,8 @@
 
 📁 **Sales Performance Dashboard (Power BI)**  
 Designed a dynamic dashboard tracking regional sales performance, monthly trends, and top-selling products.
+* 📂 Projects: [Super Market (Dashboard)](https://public.tableau.com/views/Dashboard1_17408118468570/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 📁 **Customer Segmentation Analysis (SQL + Tableau)**  
 Performed in-depth segmentation of customer base to identify retention opportunities and revenue drivers.
@@ -46,7 +48,7 @@ Performed in-depth segmentation of customer base to identify retention opportuni
 ## 🌐 Let's Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/gauravbutke)  
-📧 gauravbutke4@email.com  
+📧 E-Mail(gauravbutke4@email.com) 
 📍 Based in India | Open to global opportunities
 
 ---
