@@ -45,8 +45,8 @@ Performed in-depth segmentation of customer base to identify retention opportuni
 
 ## 🌐 Let's Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-📧 gaurav.butke@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/gauravbutke)  
+📧 gauravbutke4@email.com  
 📍 Based in India | Open to global opportunities
 
 ---
