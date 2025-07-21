@@ -70,3 +70,114 @@ _Thanks for visiting! Feel free to explore my repositories._
 
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Business Analyst Dashboard</title>
+  <meta name="description" content="Business Dashboard by Gaurav Butke" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body {
+      background-color: #f4f6f9;
+    }
+    .dashboard-header {
+      background-color: #343a40;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    footer {
+      background-color: #dee2e6;
+      padding: 1rem;
+      text-align: center;
+      margin-top: 2rem;
+    }
+    .card {
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+  </style>
+</head>
+<body>
+
+  <header class="dashboard-header">
+    <h1>Business Analyst Dashboard</h1>
+    <p>Created by Gaurav Butke</p>
+  </header>
+
+  <main class="container mt-4">
+    <div class="row text-center mb-4">
+      <div class="col-md-4">
+        <div class="card text-bg-primary mb-3">
+          <div class="card-body">
+            <h5 class="card-title">Total Revenue</h5>
+            <p class="card-text fs-4">$1.5M</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card text-bg-success mb-3">
+          <div class="card-body">
+            <h5 class="card-title">Active Users</h5>
+            <p class="card-text fs-4">5,230</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="card text-bg-warning mb-3">
+          <div class="card-body">
+            <h5 class="card-title">Conversion Rate</h5>
+            <p class="card-text fs-4">4.3%</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Chart Section -->
+    <div class="row">
+      <div class="col-md-12">
+        <div class="card mb-4">
+          <div class="card-header">Monthly Sales Overview</div>
+          <div class="card-body">
+            <canvas id="salesChart" height="100"></canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    Contact: <a href="mailto:gauravbutke4@gmail.com">gauravbutke4@gmail.com</a> <br>
+    &copy; 2025 Business Dashboard
+  </footer>
+
+  <!-- Chart.js Configuration -->
+  <script>
+    const ctx = document.getElementById('salesChart').getContext('2d');
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul'],
+        datasets: [{
+          label: 'Sales in USD',
+          data: [12000, 19000, 17000, 22000, 24000, 28000, 26000],
+          backgroundColor: 'rgba(54, 162, 235, 0.6)',
+          borderColor: 'rgba(54, 162, 235, 1)',
+          borderWidth: 1
+        }]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  </script>
+
+</body>
+</html>
